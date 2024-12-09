@@ -6,7 +6,7 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/homebridge-eufy-security/plugin.git"
+    "url": "git://github.com/jadonbaker/plugin.git"
   },
   "funding": [
     {
@@ -15,7 +15,7 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/homebridge-eufy-security/plugin/issues"
+    "url": "https://github.com/jadonbaker/plugin/issues"
   },
   "engines": {
     "node": "20.10.0||^20",
